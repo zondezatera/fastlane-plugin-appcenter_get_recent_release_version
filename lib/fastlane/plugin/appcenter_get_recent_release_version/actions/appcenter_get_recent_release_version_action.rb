@@ -54,7 +54,6 @@ module Fastlane
 
       def self.available_options
         [
-
           FastlaneCore::ConfigItem.new(key: :api_token,
                       env_name: "APPCENTER_API_TOKEN",
                   description: "API Token for App Center",
