@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-appcenter_get_recent_release_version'
   spec.version       = Fastlane::AppcenterGetRecentReleaseVersion::VERSION
   spec.author        = 'Kitti Pariyaakkarakul'
-  spec.email         = 'kitti.p@lqid360.com'
+  spec.email         = 'zatera1920@gmail.com'
 
   spec.summary       = 'Get recent release version from appcenter'
   spec.homepage      = "https://github.com/zondezatera/fastlane-plugin-appcenter_get_recent_release_version"
